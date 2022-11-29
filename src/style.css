@@ -1,0 +1,99 @@
+* {
+   box-sizing: border-box;
+}
+
+body {
+   background-color: #24252b;
+}
+
+.container {
+   font-family: Inter, sans-serif;
+   background-color: #1a1c22;
+   text-align: center;
+   margin: 44px 20%;
+   border-radius: 8px;
+   color: #e9eaeb;
+}
+
+.info__avatar {
+   width: 100%;
+   border-radius: 10px 10px 0 0;
+}
+
+.info__job {
+   color: #66544c;
+}
+.info__button > a,
+.info__project > a {
+   text-decoration: none;
+   color: white;
+   display: inline-flex;
+   align-items: center;
+}
+
+.info__socials {
+   display: flex;
+   justify-content: center;
+}
+
+.info__socials .info__button:last-child {
+   background-color: #5093e2;
+}
+
+.info__socials .info__button:first-child {
+   color: #374151;
+}
+
+svg {
+   font-size: 20px;
+}
+
+.info__button {
+   background-color: #d1d5db;
+   font-size: 18px;
+   display: flex;
+   align-items: center;
+   border-radius: 4px;
+   font-weight: 600;
+   margin: 0 10px;
+   padding: 0 10px;
+   height: 30px;
+}
+
+.info__button p {
+   margin: 0 0 0 8px;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 16px;
+   cursor: pointer;
+}
+
+.section {
+   margin: 30px 100px 50px;
+   text-align: left;
+}
+
+.section--header {
+   margin-bottom: 0;
+   text-align: center;
+}
+
+.section--content {
+   font-weight: 500;
+   margin-top: 10px;
+}
+
+.footer {
+   background-color: #161619;
+   padding: 10px 0;
+   border-radius: 0px 0px 10px 10px;
+   height: 80px;
+   line-height: 80px;
+}
+
+.footer > svg {
+   width: 40px;
+   height: 40px;
+   margin-right: 20px;
+   cursor: pointer;
+}
