@@ -13,7 +13,7 @@ export default function Info() {
             <h1 className="info__name">Võ Đình Văn</h1>
             <h3 className="info__job">Frontend Developer</h3>
             <p className="info__project">
-               <a href="dinhvan.netlify.app">Portfolio Website</a>
+               <a href="https://dinhvan.netlify.app">Portfolio Website</a>
             </p>
             <div className="info__socials">
                <span className="info__button">
