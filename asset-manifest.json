@@ -1,13 +1,14 @@
 {
-  "main.css": "/profile-card/static/css/main.bfc720b9.chunk.css",
-  "main.js": "/profile-card/static/js/main.84506331.chunk.js",
-  "main.js.map": "/profile-card/static/js/main.84506331.chunk.js.map",
-  "static/js/1.2402dbfb.chunk.js": "/profile-card/static/js/1.2402dbfb.chunk.js",
-  "static/js/1.2402dbfb.chunk.js.map": "/profile-card/static/js/1.2402dbfb.chunk.js.map",
+  "main.css": "/profile-card/static/css/main.6a0ca2b3.chunk.css",
+  "main.js": "/profile-card/static/js/main.964c72eb.chunk.js",
+  "main.js.map": "/profile-card/static/js/main.964c72eb.chunk.js.map",
+  "static/js/1.0ce75190.chunk.js": "/profile-card/static/js/1.0ce75190.chunk.js",
+  "static/js/1.0ce75190.chunk.js.map": "/profile-card/static/js/1.0ce75190.chunk.js.map",
   "runtime~main.js": "/profile-card/static/js/runtime~main.fb0db163.js",
   "runtime~main.js.map": "/profile-card/static/js/runtime~main.fb0db163.js.map",
-  "static/css/main.bfc720b9.chunk.css.map": "/profile-card/static/css/main.bfc720b9.chunk.css.map",
+  "static/media/avatar.jpg": "/profile-card/static/media/avatar.33247748.jpg",
+  "static/css/main.6a0ca2b3.chunk.css.map": "/profile-card/static/css/main.6a0ca2b3.chunk.css.map",
   "index.html": "/profile-card/index.html",
-  "precache-manifest.4d1eb1f579a23e8e94edfe51f39eee24.js": "/profile-card/precache-manifest.4d1eb1f579a23e8e94edfe51f39eee24.js",
+  "precache-manifest.253a7da6c2d397089399e34608eea449.js": "/profile-card/precache-manifest.253a7da6c2d397089399e34608eea449.js",
   "service-worker.js": "/profile-card/service-worker.js"
 }
