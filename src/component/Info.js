@@ -1,5 +1,5 @@
 import React from "react";
-import CatImg from "../../src/images/cat.jpg";
+import Avatar from "../../src/images/avatar.jpg";
 import { HiMail } from "react-icons/hi";
 import { AiFillGithub } from "react-icons/ai";
 
@@ -7,7 +7,7 @@ export default function Info() {
    return (
       <>
          <div>
-            <img src={CatImg} className="info__avatar"></img>
+            <img src={Avatar} className="info__avatar"></img>
          </div>
          <div className="info">
             <h1 className="info__name">Võ Đình Văn</h1>
